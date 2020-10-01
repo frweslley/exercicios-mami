@@ -43,7 +43,7 @@ void draw() {
   
   fill(200, 10, 200);
   textSize(18);
-  //text(a, 32, 50); 
-  //text(b, 32, 78); 
+  text(a, 32, 50); 
+  text(b, 32, 78); 
   text(c, 32, 106); 
 }
